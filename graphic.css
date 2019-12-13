@@ -11,8 +11,6 @@
 
 .cell img {
   display: block;
-  width: 300x;
-  height: 400px;
   margin: 0 auto;
 }
 
@@ -30,7 +28,7 @@
 
 @media screen and (min-width: 780px) {
   .cell {
-    width: calc(100% / 3);
+    width: calc(100% / 2);
   }
 }
 
