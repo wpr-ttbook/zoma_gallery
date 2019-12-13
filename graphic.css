@@ -4,6 +4,7 @@
   padding: 0 1rem;
 }
 
+
 .responsive-image {
   max-width: 100%;
   object-fit: cover;
@@ -14,6 +15,10 @@
   margin: 0 auto;
 }
 
+.fullwidth p{
+ width: 100% !important
+
+}
 
 @media screen and (min-width: 600px) {
   .grid {
